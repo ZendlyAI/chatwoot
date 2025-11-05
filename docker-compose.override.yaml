@@ -22,7 +22,7 @@ services:
       - LOGO_THUMBNAIL="/brand-assets/logo_thumbnail.png"
       - LOGO_FAVICON="/brand-assets/favicon.png"
       - BRAND_NAME="Zendly"
-      - BRAND_URL="https://kapta.zendly.ai"
+      - BRAND_URL="https://ontop.zendly.ai"
       - BRAND_LOGO="/brand-assets/logo.svg"
       - BRAND_FAVICON="/brand-assets/favicon.png"
     volumes:

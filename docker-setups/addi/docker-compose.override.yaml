@@ -2,7 +2,7 @@ version: '3'
 
 services:
   base: &base
-    image: chatwoot/chatwoot:latest
+    image: garecinos/chatwoot-custom:v1.0.0
     env_file: .env ## Change this file for customized env variables
     volumes:
       - storage_data:/app/storage
@@ -18,7 +18,7 @@ services:
       - LOGO_THUMBNAIL="/brand-assets/logo_thumbnail.png"
       - LOGO_FAVICON="/brand-assets/favicon.png"
       - BRAND_NAME="Zendly"
-      - BRAND_URL="https://kapta.zendly.ai"
+      - BRAND_URL="https://addi.zendly.ai"
       - BRAND_LOGO="/brand-assets/logo.svg"
       - BRAND_FAVICON="/brand-assets/favicon.png"
     volumes:
