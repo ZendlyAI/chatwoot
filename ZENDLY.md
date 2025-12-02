@@ -116,5 +116,5 @@ Copy the generated token — it will be used to authenticate API requests.
 Once you have the token, you can consume the Platform API to create or manage accounts and users.
 
 Documentation:
-- 📘 Building on Top of Chatwoot: Platform APIs
-- 🔗 Postman Workspace: Chatwoot APIs
+- [Building on Top of Chatwoot: Platform APIs](https://github.com/chatwoot/chatwoot/wiki/Building-on-Top-of-Chatwoot:-Platform-APIs) 
+- [https://www.postman.com/chatwoot/workspace/chatwoot-apis](https://www.postman.com/chatwoot/workspace/chatwoot-apis "https://www.postman.com/chatwoot/workspace/chatwoot-apis")
