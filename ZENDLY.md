@@ -36,7 +36,7 @@ Client-specific resources:
 Inside the docker-setup directory, duplicate an existing client’s folder (e.g., ontop) and rename it with the new client’s name.
 
 ```
-cd docker-setup
+cd docker-setups
 cp -r ontop littio
 ```
 
